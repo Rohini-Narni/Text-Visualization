@@ -1,0 +1,7 @@
+pdfplumber
+python-docx
+matplotlib
+seaborn
+wordcloud
+scikit-learn
+nltk
